@@ -1,0 +1,17 @@
+.rps-img-size {
+    width: 110px;
+    height: 110px;
+}
+
+#logo {
+    width: 250px;
+}
+
+.button-color {
+    background-color: darkslateblue;
+}
+
+.win-size {
+    font-size: 300%;
+    float: left;
+}
